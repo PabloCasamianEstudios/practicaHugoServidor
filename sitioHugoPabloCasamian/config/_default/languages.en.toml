@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Pablo Casamián"
 
 [params]
   displayName = "EN"
@@ -16,11 +16,11 @@ title = "Blowfish"
 
  [params.author]
    name = "Pablo Casamián"
-#   email = "youremail@example.com"
-   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-   headline = "I'm only human, not a robot"
-#   bio = "A little bit about you"
+   email = "pablocasamianestudios@gmail.com"
+   image = "img/logo.png"
+  imageQuality = 96
+   headline = "Desarrollador de aplicaciones web"
+   bio = "Un chico curioso"
    links = [
      { email = "mailto:pablocasamianestudios@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
