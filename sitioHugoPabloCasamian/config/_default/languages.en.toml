@@ -12,7 +12,7 @@ title = "Blowfish"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  # copyright = ""
+  copyright = "&copy; 2024 Pablo Casamián. All rights reserved."
 
 # [params.author]
 #   name = "Your name here"
