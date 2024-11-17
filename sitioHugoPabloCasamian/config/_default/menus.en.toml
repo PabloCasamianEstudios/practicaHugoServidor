@@ -27,7 +27,7 @@
 [[main]]
   name = "Medio"
   parent = "Markdown"
-  pageRef = "medio"
+  pageRef = "medium"
   weight = 20
 
 #[[subnavigation]]

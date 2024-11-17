@@ -21,11 +21,21 @@
     </item>
     
     <item>
-      <title>basic</title>
+      <title>Basico</title>
       <link>http://localhost:1313/markdown/basic/</link>
       <pubDate>Wed, 13 Nov 2024 20:18:08 +0100</pubDate>
       <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
       <guid>http://localhost:1313/markdown/basic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Medio</title>
+      <link>http://localhost:1313/markdown/medium/</link>
+      <pubDate>Wed, 13 Nov 2024 20:18:08 +0100</pubDate>
+      <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
+      <guid>http://localhost:1313/markdown/medium/</guid>
       <description></description>
       
     </item>
