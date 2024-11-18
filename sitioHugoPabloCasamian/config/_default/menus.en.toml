@@ -15,19 +15,36 @@
   weight = 10
 
 [[main]]
-  name = "2"
+  name = "Mi pueblo"
   weight = 20
+  pageRef = "pueblo"
+  
+  [[main]]
+  name = "Tv"
+  weight = 30
+  pageRef = "tv"
+
+[[main]]
+  name = "programacion"
+  weight = 40
+  pageRef = "programacion"
 
 [[main]]
   name = "Básico"
   parent = "Markdown"
-  pageRef = "basic"
+  pageRef = "basico"
   weight = 20
 
 [[main]]
-  name = "Medio"
+  name = "Extendido"
   parent = "Markdown"
-  pageRef = "medium"
+  pageRef = "extendido"
+  weight = 20
+
+  [[main]]
+  name = "Gráficos"
+  parent = "Markdown"
+  pageRef = "graficos"
   weight = 20
 
 #[[subnavigation]]

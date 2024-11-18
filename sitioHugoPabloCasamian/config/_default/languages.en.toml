@@ -1,6 +1,6 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "es"
+languageName = "Spanish"
 weight = 1
 title = "Pablo Casamián"
 
@@ -19,7 +19,7 @@ title = "Pablo Casamián"
    email = "pablocasamianestudios@gmail.com"
    image = "img/logo.png"
   imageQuality = 96
-   headline = "Desarrollador de aplicaciones web"
+   headline = "Desarrollador de aplicaciones web (En proceso)"
    bio = "Un chico curioso"
    links = [
      { email = "mailto:pablocasamianestudios@gmail.com" },

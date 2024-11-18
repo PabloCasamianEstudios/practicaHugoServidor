@@ -5,27 +5,37 @@
     <link>http://localhost:1313/markdown/</link>
     <description>Recent content in Markdowns on Pablo Casamián</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>es</language>
     <managingEditor>pablocasamianestudios@gmail.com (Pablo Casamián)</managingEditor>
     <webMaster>pablocasamianestudios@gmail.com (Pablo Casamián)</webMaster>
     <copyright>&amp;copy; 2024 Pablo Casamián. All rights reserved.</copyright>
     <lastBuildDate>Wed, 13 Nov 2024 20:18:08 +0100</lastBuildDate><atom:link href="http://localhost:1313/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basico</title>
-      <link>http://localhost:1313/markdown/basic/</link>
+      <link>http://localhost:1313/markdown/basico/</link>
       <pubDate>Wed, 13 Nov 2024 20:18:08 +0100</pubDate>
       <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
-      <guid>http://localhost:1313/markdown/basic/</guid>
+      <guid>http://localhost:1313/markdown/basico/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Medio</title>
-      <link>http://localhost:1313/markdown/medium/</link>
+      <title>Extendido</title>
+      <link>http://localhost:1313/markdown/extendido/</link>
       <pubDate>Wed, 13 Nov 2024 20:18:08 +0100</pubDate>
       <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
-      <guid>http://localhost:1313/markdown/medium/</guid>
+      <guid>http://localhost:1313/markdown/extendido/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/markdown/graficos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
+      <guid>http://localhost:1313/markdown/graficos/</guid>
       <description></description>
       
     </item>
