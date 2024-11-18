@@ -91,7 +91,4 @@ print('Hello World');
 ```
 
 # Video
-{{youtube V9PVRfjEBTI>}}
-```
-{{youtube V9PVRfjEBTI>}}
-```
+{{<youtube V9PVRfjEBTI>}}
