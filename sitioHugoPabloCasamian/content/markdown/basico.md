@@ -1,7 +1,7 @@
 +++
 date = '2024-11-13T20:18:08+01:00'
 draft = false
-title = 'Basico'
+title = 'Markdown Basico'
 +++
 
 # Título 1
@@ -65,3 +65,27 @@ Lista ordenada:
 # Imagenes
 
 ![Foto de perfil de Pablo Casamián](/assets/img/logo.png)
+```
+![Foto de perfil de Pablo Casamián](/assets/img/logo.png)
+```
+
+--- 
+
+# Links 
+
+[Enlace](https://www.example.com)
+```
+[Enlace](https://www.example.com)
+```
+--- 
+
+# Código
+`
+print('Hello World');
+`
+
+# Código con formato
+
+```py
+print('Hello World');
+```
