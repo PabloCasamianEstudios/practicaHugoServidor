@@ -102,7 +102,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "6"
+    "wordCount": "4"
   }]
   </script>
 
@@ -125,6 +125,17 @@
 <script src="/lib/jquery/jquery.slim.min.b0dca576e87d7eaa5850ae4e61759c065786cdb6489d68fcc82240539eebd5da522bdb4fda085ffd245808c8fe2acb2516408eb774ef26b5f6015fc6737c0ea8.js" integrity="sha512-sNylduh9fqpYUK5OYXWcBleGzbZInWj8yCJAU57r1dpSK9tP2ghf/SRYCMj&#43;KsslFkCOt3TvJrX2AV/Gc3wOqA=="></script>
 
 
+
+  
+  
+  
+  
+  <script
+    defer
+    type="text/javascript"
+    src="/js/mermaid.bundle.9ea4436401f121e647b1caa886b85b0b9efc9bf193ee051ef9468c4570011c7c57a7926db2f094ececc04443789412dedf8e79695685987c52f16684af1fd1bc.js"
+    integrity="sha512-nqRDZAHxIeZHscqohrhbC578m/GT7gUe&#43;UaMRXABHHxXp5JtsvCU7OzAREN4lBLe3455aVaFmHxS8WaErx/RvA=="
+  ></script>
 
 
 
@@ -662,12 +673,15 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <pre tabindex="0"><code class="language-mermaid" data-lang="mermaid">graph TD;
-    A--&gt;B;
-    A--&gt;C;
-    B--&gt;D;
-    C--&gt;D;
-</code></pre>
+          <div class="mermaid" align="center">
+  
+graph LR;
+A[Lemons]-->B[Lemonade];
+B-->C[Profit]
+
+</div>
+
+
           
           
           
@@ -800,6 +814,7 @@
 </div>
 
   </div>
+
 </body>
 
 </html>
