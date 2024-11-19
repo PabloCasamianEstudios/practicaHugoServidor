@@ -4,3 +4,20 @@ draft = false
 title = 'Markdown Extendido'
 +++
 
+# Tablas
+
+| X  | Y  |
+|----|----|
+|  1 |  2 |
+|  3 |  4 |
+
+```
+| X  | Y  |
+|----|----|
+|  1 |  2 |
+|  3 |  4 |
+```
+# Botón
+
+{{< button href="#button" target="_self" >}}
+Botón{{< /button >}}
