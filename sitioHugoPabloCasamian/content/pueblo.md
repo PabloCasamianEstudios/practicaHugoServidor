@@ -5,7 +5,7 @@ title = 'Jaca'
 +++
 
 
-Yo Pablo Casamián, nací en Jaca, una ciudad pequeña, que suele ser confundida con un pueblo. Desde que vine a Zaragoza para estudiar el año pasado, no he vuelto demasiado; así que esta propaganda será mi redención, con el objetivo de que no me expatrien definitivamente.
+Yo, Pablo Casamián, nací en Jaca, una ciudad pequeña, que suele ser confundida con un pueblo. Desde que vine a Zaragoza para estudiar el año pasado, no he vuelto demasiado; así que esta propaganda será mi redención, con el objetivo de que no me expatrien definitivamente.
 
 ## Jaca, la Perla del Pirineo Aragonés
 
