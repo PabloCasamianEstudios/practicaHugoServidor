@@ -29,3 +29,21 @@ Famoso por sus frescos románicos, el museo es un tesoro para quienes desean exp
 ![Foto del museo diocesano](/images/jaca4.jpg)
 
 ---
+
+## **Cultura y Festividades**
+
+Jaca es un referente cultural en la región gracias a su animado calendario de eventos:
+- **Festival Folclórico de los Pirineos**: Una celebración internacional que reúne a grupos folclóricos de todo el mundo. Se hace  TODOS LOS AÑOS IMPARES, los pares se hacen en Olorón. 
+- **Carnaval de Jaca**: Conocido por sus coloridos desfiles y tradiciones locales.
+- **Feria del Camino de Santiago**: Un homenaje a su papel en la ruta jacobea.
+- **Viernes de Mayo**: Es sin dudarlo la festividad más importante, el día de Jaca. En este día todos los jacetanos salen a la calle con ropajes tradicionales, para celebrar la libertad del pueblo jacetano en una gran batalla contra el ejercito musulmán. 
+
+---
+
+## **Naturaleza y Deporte**
+
+Rodeada por el Pirineo Aragonés, Jaca ofrece actividades al aire libre durante todo el año:
+- **Esquí y snowboard** en Astún y Candanchú.
+- **Senderismo y escalada** en los valles cercanos.
+- **Patinaje sobre hielo** en el pabellón de hielo de Jaca, una instalación de nivel olímpico.
+---
