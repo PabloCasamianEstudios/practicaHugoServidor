@@ -102,7 +102,7 @@
     
     
     "mainEntityOfPage": "true",
-    "wordCount": "4"
+    "wordCount": "28"
   }]
   </script>
 
@@ -673,11 +673,56 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <div class="mermaid" align="center">
+          <!-- TD -> Top-Down LR -> Left-Right -->
+
+
+<h1 class="relative group">Graficos 
+    <div id="graficos" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#graficos" aria-label="Anchor">#</a>
+    </span>        
+    
+</h1>
+<div class="mermaid" align="center">
   
-graph LR;
-A[Lemons]-->B[Lemonade];
-B-->C[Profit]
+graph LR;  
+A[Limones]-->B[Limonada];
+B-->C[Beneficio]
+
+</div>
+
+<hr>
+<div class="mermaid" align="center">
+  
+graph TD;
+    A--> B
+    B --> C
+    C -->|Sí| D
+    C -->|No| A
+
+</div>
+
+<hr>
+
+
+<h1 class="relative group">Diagrama de secuencia 
+    <div id="diagrama-de-secuencia" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#diagrama-de-secuencia" aria-label="Anchor">#</a>
+    </span>        
+    
+</h1>
+<div class="mermaid" align="center">
+  
+sequenceDiagram
+    A->>B: Solicitud
+    B-->>A: Respuesta
 
 </div>
 

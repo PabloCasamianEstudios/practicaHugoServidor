@@ -33,7 +33,12 @@ title = 'Markdown Basico'
 ```
 *texto en cursiva*
 ```
-
+---
+# Tachado
+ ~~Texto tachado~~
+ ```
+  ~~Texto tachado~~
+ ```
 ---
 
 ## Listas

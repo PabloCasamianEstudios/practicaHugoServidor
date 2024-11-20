@@ -17,7 +17,23 @@ title = 'Markdown Extendido'
 |  1 |  2 |
 |  3 |  4 |
 ```
+---
 # Botón
 
 {{< button href="#button" target="_self" >}}
 Botón{{< /button >}}
+---
+# Checkbox
+
+- [ ] Tarea incompleta
+- [x] Tarea completa
+```
+- [ ] Tarea incompleta
+- [x] Tarea completa
+```
+# Anclajes
+[Ir a otra sección de este markdown](#tablas)
+```
+[Ir a otra sección de este markdown](#tablas)
+```
+---

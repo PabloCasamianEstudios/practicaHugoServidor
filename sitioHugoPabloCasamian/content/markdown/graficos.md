@@ -5,8 +5,28 @@ title = 'Gráficos Markdown'
 +++
 
 
+<!-- TD -> Top-Down LR -> Left-Right -->
+# Graficos
 {{< mermaid >}}
-graph LR;
-A[Lemons]-->B[Lemonade];
-B-->C[Profit]
+graph LR;  
+A[Limones]-->B[Limonada];
+B-->C[Beneficio]
+{{< /mermaid >}}
+
+---
+
+{{< mermaid >}}
+graph TD;
+    A--> B
+    B --> C
+    C -->|Sí| D
+    C -->|No| A
+{{< /mermaid >}}
+
+---
+# Diagrama de secuencia
+{{< mermaid >}}
+sequenceDiagram
+    A->>B: Solicitud
+    B-->>A: Respuesta
 {{< /mermaid >}}
