@@ -1,0 +1,51 @@
+{{ partial "header/basic.html" . }}
+{{ partial "hero/basic.html" . }}
+
+
+{{ partial "article-pagination.html" . }}
+{{ partial "breadcrumbs.html" . }}
+{{ partial "head.html" . }}
+{{ partial "related.html" . }}
+{{ partial "schema.html" . }}
+{{ partial "scroll-to-top.html" . }}
+{{ partial "search.html" . }}
+{{ partial "sharing-links.html" . }}
+{{ partial "toc.html" . }}
+{{ partial "translations.html" . }}
+{{ partial "vendor.html" . }}
+
+
+
+
+
+
+
+
+
+
+{{ .Content}}
+
+<ul>
+    {{ range .Site.Data.tv}}
+    <table>
+        <caption><h1>{{ .name}}</h1></caption>
+        <tr>
+            {{ $cont := 1}}
+            {{ range .channels}}
+            <td>
+                <a href="{{.web}}">
+                    <img src="{{.logo}}" alt="{{.name}}">
+                </a>
+            </td>
+            {{ $cont = add $cont 1}}
+            {{if eq (mod $cont 4) 0}}
+        </tr><tr>
+        {{ end}}
+        {{ end}}
+    </tr>
+    </table>
+    {{ end}}
+</ul>
+
+
+{{ partial "footer.html" . }}
