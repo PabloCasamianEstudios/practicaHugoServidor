@@ -1,5 +1,5 @@
+
 {{ partial "header/basic.html" . }}
-{{ partial "hero/basic.html" . }}
 
 
 {{ partial "article-pagination.html" . }}
@@ -30,7 +30,7 @@
     <table>
         <caption><h1>{{ .name}}</h1></caption>
         <tr>
-            {{ $cont := 1}}
+            {{ $cont := 0}}
             {{ range .channels}}
             <td>
                 <a href="{{.web}}">
