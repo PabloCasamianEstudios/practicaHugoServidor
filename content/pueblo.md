@@ -17,7 +17,7 @@ Ubicada en la provincia de Huesca, es una ciudad cargada de historia y rodeada d
 
 ### 1. **La Catedral de Jaca**
 La Catedral de San Pedro de Jaca es uno de los templos románicos más antiguos de España y una visita obligada para los amantes de la arquitectura.
-![Foto de catedral](/images/jaca3.jpg)
+![Foto de catedral](images/jaca3.jpg)
 
 ### 2. **La Ciudadela de Jaca**
 Un impresionante fuerte militar del siglo XVI, construido para proteger la ciudad. Alberga el Museo de Miniaturas Militares. Como dato curioso, la única vez que fue utilizado fue durante la invasión francesa por los propios franceses. 
