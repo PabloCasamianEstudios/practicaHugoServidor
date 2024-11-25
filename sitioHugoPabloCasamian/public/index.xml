@@ -2,70 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pablo Casamián</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/proyectoHugoServidor/</link>
     <description>Recent content on Pablo Casamián</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>pablocasamianestudios@gmail.com (Pablo Casamián)</managingEditor>
     <webMaster>pablocasamianestudios@gmail.com (Pablo Casamián)</webMaster>
     <copyright>&amp;copy; 2024 Pablo Casamián. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Nov 2024 20:18:08 +0100</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Nov 2024 20:18:08 +0100</lastBuildDate><atom:link href="http://localhost:1313/proyectoHugoServidor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tv</title>
-      <link>http://localhost:1313/tv/</link>
+      <link>http://localhost:1313/proyectoHugoServidor/tv/</link>
       <pubDate>Mon, 14 Oct 2024 11:01:23 +0200</pubDate>
       <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
-      <guid>http://localhost:1313/tv/</guid>
+      <guid>http://localhost:1313/proyectoHugoServidor/tv/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gráficos Markdown</title>
-      <link>http://localhost:1313/markdown/graficos/</link>
+      <link>http://localhost:1313/proyectoHugoServidor/markdown/graficos/</link>
       <pubDate>Wed, 13 Nov 2024 20:18:08 +0100</pubDate>
       <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
-      <guid>http://localhost:1313/markdown/graficos/</guid>
+      <guid>http://localhost:1313/proyectoHugoServidor/markdown/graficos/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Jaca</title>
-      <link>http://localhost:1313/pueblo/</link>
+      <link>http://localhost:1313/proyectoHugoServidor/pueblo/</link>
       <pubDate>Wed, 13 Nov 2024 20:18:08 +0100</pubDate>
       <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
-      <guid>http://localhost:1313/pueblo/</guid>
+      <guid>http://localhost:1313/proyectoHugoServidor/pueblo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:1313/programacion/</link>
+      <link>http://localhost:1313/proyectoHugoServidor/programacion/</link>
       <pubDate>Wed, 13 Nov 2024 20:18:08 +0100</pubDate>
       <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
-      <guid>http://localhost:1313/programacion/</guid>
+      <guid>http://localhost:1313/proyectoHugoServidor/programacion/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Markdown Basico</title>
-      <link>http://localhost:1313/markdown/basico/</link>
+      <link>http://localhost:1313/proyectoHugoServidor/markdown/basico/</link>
       <pubDate>Wed, 13 Nov 2024 20:18:08 +0100</pubDate>
       <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
-      <guid>http://localhost:1313/markdown/basico/</guid>
+      <guid>http://localhost:1313/proyectoHugoServidor/markdown/basico/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Markdown Extendido</title>
-      <link>http://localhost:1313/markdown/extendido/</link>
+      <link>http://localhost:1313/proyectoHugoServidor/markdown/extendido/</link>
       <pubDate>Wed, 13 Nov 2024 20:18:08 +0100</pubDate>
       <author>pablocasamianestudios@gmail.com (Pablo Casamián)</author>
-      <guid>http://localhost:1313/markdown/extendido/</guid>
+      <guid>http://localhost:1313/proyectoHugoServidor/markdown/extendido/</guid>
       <description></description>
       
     </item>
