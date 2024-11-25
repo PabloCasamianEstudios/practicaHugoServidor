@@ -69,10 +69,10 @@ Lista ordenada:
 
 # Imagenes
 
-![Foto de perfil de Pablo Casamián](/images/logo.png)
+![Foto de perfil de Pablo Casamián](/img/logo.png)
 
 ```
-![Foto de perfil de Pablo Casamián](/images/logo.png)
+![Foto de perfil de Pablo Casamián](/img/logo.png)
 ```
 
 --- 
